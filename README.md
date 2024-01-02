@@ -1,1 +1,3 @@
-# StopWatch-
+#StopWatch project with HTML , CSS & JAVASCRIPT ..
+
+This is basic project of javascript for beginners...
